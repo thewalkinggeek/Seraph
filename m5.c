@@ -7,6 +7,8 @@
 /* Just gcc -o m5 m5.c ; ./m5                                          */
 /* (An example of md5 checksums -by- TWG                               */
 /* Yeah...yeah....system commands in c again. deal!  ;)                */
+/*                                                                     */
+/* Written by: Jon Schoenberger                                        */
 
 #include<stdio.h>
 #include<stdlib.h>
