@@ -1,4 +1,4 @@
-/* Seraph File Administrative Utility written in my youth                                    */
+/* Seraph File Administrative Utility written by Jon Schoenberger in my youth.                */
 /*                                                                                            */   
 /* Seraph is an utility to detect uid bits, world writable files/directories,                 */
 /* floating files, and places them in a txt database file for easy and *quick* viewing.       */
