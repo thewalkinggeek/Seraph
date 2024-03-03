@@ -1,4 +1,4 @@
-/*Seraph Administrative Utility written in my youth.
+/*Seraph Administrative Utility written by Jon Schoenberger in my youth.
 *
 *Seraph is an utility to detect uid bits, world writable files/directories,
 *floating files, and place them in log files for easy and *quick* viewing,
