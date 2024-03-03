@@ -7,6 +7,8 @@
 /* Just gcc -o crc crc.c ; ./crc                                       */
 /* (Just a simple example of checksums)                                */
 /* Yeah...yeah....system commands in c again. deal!  ;) -TWG           */
+/*                                                                     */
+/* Written by: Jon Schoenberger                                        */
 
 #include<stdio.h>
 #include<stdlib.h>
